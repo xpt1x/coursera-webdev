@@ -1,0 +1,38 @@
+body {
+    font-family: 'Comic Sans MS', Arial;
+}
+
+.heading {
+    font-weight: bolder;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.custom-nav {
+    background-color: lightgray;
+}
+
+.custom-nav li {
+    text-align: center;
+    width: 100%;
+}
+
+section {
+    background-color: lightgray;
+    margin-bottom: 2%;
+}
+
+section > h4 {
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+section p {
+    padding: 1%;
+}
+
+@media (max-width: 768px) { 
+    .container-fluid {
+        width: 80%;
+    }
+}

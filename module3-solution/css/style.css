@@ -12,11 +12,6 @@ body {
     background-color: lightgray;
 }
 
-.custom-nav li {
-    text-align: center;
-    width: 100%;
-}
-
 section {
     background-color: lightgray;
     margin-bottom: 2%;
